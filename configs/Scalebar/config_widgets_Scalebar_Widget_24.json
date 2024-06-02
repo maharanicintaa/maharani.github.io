@@ -1,0 +1,8 @@
+{
+  "scalebar": {
+    "scalebarStyle": "line",
+    "scalebarUnit": "metric",
+    "decimalPlaces": 2,
+    "addSeparator": false
+  }
+}
